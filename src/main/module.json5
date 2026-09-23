@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "phone_number_input",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}
